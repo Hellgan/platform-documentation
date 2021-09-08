@@ -1,7 +1,7 @@
 ---
 id: start
-name: Creator Start
-title: Creator Start
+name: Début du créateur
+title: Début du créateur
 tags:
     - Reference
 ---
@@ -33,22 +33,22 @@ tags:
     }
 </style>
 
-# Make Your First Game
+# Créez votre premier jeu
 
-Whether you're a new creator or an experienced developer, Core is the easiest way to build, host, and run multiplayer games and worlds. We provide the servers, the assets, and all the code needed to get your first game built and published in minutes. To get started, choose a tutorial below.
+Que vous soyez un nouveau créateur ou un développeur expérimenté, Core est le moyen le plus simple de construire, d'héberger et de faire fonctionner des jeux et des mondes multijoueurs. Nous fournissons les serveurs, les ressources et tout le code nécessaire pour que votre premier jeu soit construit et publié en quelques minutes. Pour commencer, choisissez un tutoriel ci-dessous.
 
-## Choose A Genre
+## Choisissez un genre
 
-| [Deathmatch](my_first_multiplayer_game.md) | [Dungeon](../tutorials/first_game_rpg.md) | [Survival](../tutorials/survival_tutorial.md) |
+| [Match à mort](my_first_multiplayer_game.md) | [Donjon](../tutorials/first_game_rpg.md) | [Survival](../tutorials/survival_tutorial.md) |
 | --- | --- | --- |
-| *Build the perfect arena, weapons, and rules for a fast-paced action shooter for up to 8 players.* | *Create an RPG world that saves gold and levels between sessions, complete with enemy NPC's and an item shop.* | *Let players fight zombies, gathering materials, build items and fortify shelters in this framework made by [Team META](https://core-team-meta.github.io/).* |
+| *Construisez l'arène, les armes et les règles parfaites pour un jeu de tir au rythme effréné pour un maximum de 8 joueurs.* | *Créez un univers RPG qui permet de conserver l'or et les niveaux entre les sessions, avec des PNJ ennemis et une boutique d'objets.* | *Laissez les joueurs combattre les zombies, collecter des matériaux, construire des objets et fortifier des abris dans ce cadre réalisé par [Team META](https://core-team-meta.github.io/).* |
 | [![Deathmatch](../img/Start/Deathmatch_Docs.png)](my_first_multiplayer_game.md){: .table-art } | [![Dungeon](../img/Start/DungeonCrawler_Docs.png)](../tutorials/first_game_rpg.md){: .table-art } | [![Survival](../img/Start/Survival_Docs.png)](../tutorials/survival_tutorial.md){: .table-art } |
-| **Time to Complete:** 20 - 30 mins   | **Time to Complete:** 45 mins - 1 hour | **Time to Complete:** 1 hour+ |
-| **Learn:** <ul><li>Exploring Free Core Content</li><li>Designing Multiplayer Maps</li><li>Transforming Objects</li><li>Using Core's Materials</li><li>Publishing Your Game</li></ul> | **Learn:** <ul><li>Leveling and Progression</li><li>Using Community-Created Assets</li><li>Building Terrain</li><li>Designing Loot Tables</li><li>Saving Player Data between Sessions</li></ul> | **Learn:** <ul><li>Creating an Item Database</li><li>Building Terrain</li><li>Creating new NPC enemies</li><li>Organizing Item Spawns</li><li>Using Cameras to Create a Mini-Map</li></ul> |
+| **Durée estimée:** 20 - 30 mins   | **Durée estimée:** 45 mins - 1 heure | **Durée estimée:** 1 heure+ |
+| **Compétences:** <ul><li>Explorer le contenu de Core</li><li>Concevoir des maps multi-joueurs</li><li>Transformer des objets</li><li>Utiliser les matériaux de Core</li><li>Publier vos jeux</li></ul> | **Compétences:** <ul><li>Niveaux et progression</li><li>Utilisation des ressources créées par la communauté</li><li>Construire des terrains</li><li>Conception des tables de butin</li><li>Sauvegarde des données du joueur entre les sessions</li></ul> | **Compétences:** <ul><li>Création d'une base de données d'éléments</li><li>Construction de terrains</li><li>Créer de nouveaux PNJs ennemis</li><li>Organiser les spawns d'objets</li><li>Utiliser des caméras pour créer une mini-carte</li></ul> |
 
-## Coming From Other Platforms
+## Arriver d'une autre plateforme
 
-If you are a developer on another platform, check out our guides to quickly learn what is new and different about Core.
+Si vous êtes un développeur sur une autre plateforme, consultez nos guides pour apprendre rapidement ce qui est nouveau et différent dans Core.
 
 - [Unity](../other_platforms/unity.md)
 - [Roblox](../other_platforms/roblox.md)
@@ -57,8 +57,8 @@ If you are a developer on another platform, check out our guides to quickly lear
 
 ---
 
-## Learn More
+## En savoir plus
 
-[Learn Lua](../tutorials/lua_basics_helloworld.md) | [Core Lua API](../api/index.md) | [Intro for Artists](../references/art.md) | [Publishing](publishing.md)
+[Apprendre Lua](../tutorials/lua_basics_helloworld.md) | [API Core Lua](../api/index.md) | [Intro pour les artistes](../references/art.md) | [Publication](publishing.md)
 
 <!-- TODO: Unreal, Minecraft Mods -->
